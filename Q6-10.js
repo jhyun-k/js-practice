@@ -46,7 +46,7 @@ var hour = '11';
 var minute = '34';
 var second = '27';
 
-var result =
+var result = year.concat('/',month,'/',day,'hour','/','minute','/',second)
 
 console.log(result);
 
